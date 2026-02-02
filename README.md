@@ -15,7 +15,7 @@ I work extensively with cloud-native technologies and practices, including:
 * **Red Hat OpenShift** (enterprise Kubernetes, security, operators, GitOps)
 * **Cloud-Native patterns** (microservices, event-driven, GitOps)
 * **Docker**, **Helm**, **Kustomize**
-* **CI/CD** with Jenkins GitHub Actions, ArgoCD
+* **CI/CD** with Jenkins, GitHub Actions, ArgoCD
 * **Observability** (metrics, logs, tracing)
 
 ## Find me here
