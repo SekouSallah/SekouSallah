@@ -5,9 +5,3 @@ My main programming languages and frameworks include **Java**, **Quarkus**, **Sp
 I design, build, and operate scalable, resilient, and observable systems running in modern cloud environments. My daily work revolves around automation, developer experience, and operational excellence.
 
 I strongly believe in **open standards**, **community-driven innovation**, and learning by contributing.
-
-## Find me here
-
-* GitHub: [https://github.com/sekou-sow](https://github.com/sekou-sow)
-* LinkedIn: [https://www.linkedin.com/in/sekousow](https://www.linkedin.com/in/sekousow)
-
