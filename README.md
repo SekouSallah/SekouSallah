@@ -1,4 +1,4 @@
-I'm a Software Engineer, DevOps Engineer, Kube Astronaut, with a strong focus on Open Source, Cloud-Native architectures, and platform engineering.
+I'm a Software Engineer, DevOps Engineer, Kubestronaut, with a strong focus on Open Source, Cloud-Native architectures, and platform engineering.
 
 My main programming languages and frameworks include **Java**, **Quarkus**, **Spring Boot**, **Node.js**, and **Go**.
 
